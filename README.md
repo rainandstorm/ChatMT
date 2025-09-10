@@ -1,4 +1,4 @@
-ChatMT聚合聊天翻译工具，专注于为出海企业提供高质量的WhatsApp/Telegram/LINE/FB Messenger等双向即时翻译服务,是跨境业务中首选聊天自动翻译助手和在线客服系统。
+ChatMT聚合聊天翻译工具，专注于为出海企业提供高质量的WhatsApp/Telegram/LINE/FB Messenger等双向即时翻译服务,是跨境业务中首选聊天自动翻译助手。
 
 翻译线路分为收费与免费两种选择:
 
