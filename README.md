@@ -21,5 +21,6 @@ ChatMTsetup.exe
 
 3.安装好之后，在登录界面，点击设置 vpn，里面有设置vpn的说明
 
+![](images/QQ20250909-194417.png)
 
-images/QQ20250909-194417.png
+
